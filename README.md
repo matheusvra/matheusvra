@@ -43,6 +43,6 @@ Thank you for visiting my GitHub profile! If you have any questions or would lik
 
 ---
 
-> “Engineering is the art of directing the great sources of power in nature for the use and convenience of man.” - Thomas Tredgold
+> "Talk is cheap. Show me the code." - Linus Torvalds
 
 ---
