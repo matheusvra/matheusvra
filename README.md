@@ -1,18 +1,18 @@
 # 👨‍💻 Welcome to My GitHub Profile!
 
-## Professional skills
+## 🛠️ Professional skills
 [![My Skills](https://skillicons.dev/icons?i=linux,c,python,cpp,js,rust,matlab,r,latex)](https://skillicons.dev)
 
 ## 💻 Programming Languages
 
-- **C** - 🖥️
-- **Python** - 🐍
-- **C++** - 💻
-- **JavaScript** - 🌐
-- **Rust** - 🦀
-- **Matlab** - 📊
-- **LabVIEW** - 🔧
-- **R** - 📈
+- **C**
+- **Python**
+- **C++**
+- **JavaScript**
+- **Matlab**
+- **LabVIEW**
+- **Rust**
+- **R**
 
 ## 🛠️ Professional Experience
 
